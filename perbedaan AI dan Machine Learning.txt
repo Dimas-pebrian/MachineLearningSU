@@ -1,1 +1,0 @@
-1.	AI menangani masalah yang lebih umum dalam mengotomatisasi sistem yang mencakup pemrosesan gambar, jaringan saraf, mesin pembelajaran atau lainnya. Sedangkan machine learning adalah aplikasi artificial intelligence (AI) yang menyediakan sistem kinerja secara otomatis serta belajar memperbaiki diri dari pengalaman tanpa diprogram secara eksplisit.
